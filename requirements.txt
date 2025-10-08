@@ -1,0 +1,4 @@
+requests~=2.32.5
+Faker~=37.8.0
+pytest~=8.4.2
+requests-toolbelt~=1.0.0
